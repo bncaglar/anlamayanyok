@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "155583796823",
+    "firebase_url": "https://anlamayanyok-853f1-default-rtdb.firebaseio.com",
+    "project_id": "anlamayanyok-853f1",
+    "storage_bucket": "anlamayanyok-853f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155583796823:android:dc67d22f2f42ca6baf3512",
+        "android_client_info": {
+          "package_name": "com.anlamayanyok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155583796823-kmjqhj8op06at3394rg2sd6n99s089l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anlamayanyok",
+            "certificate_hash": "813ac3e30fbc221d38d40fb0371172e31a6a55a6"
+          }
+        },
+        {
+          "client_id": "155583796823-uafmkd66qde91s2eell1n2epa5g4p3so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5tB_1a0zbsa_s0vvjoMY1XWZvY4hEfXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155583796823-uafmkd66qde91s2eell1n2epa5g4p3so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
