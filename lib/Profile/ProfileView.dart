@@ -158,7 +158,6 @@ class _ProfileViewState extends State<ProfileView> {
                               mainAxisAlignment: MainAxisAlignment.end,
                               children: [
                                 Text("Çağlar Binici",
-
                                     style: TextStyle(
                                         fontWeight: FontWeight.w700,
                                         color: AppColors.profileTextColor,
